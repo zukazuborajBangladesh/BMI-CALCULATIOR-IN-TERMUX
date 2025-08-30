@@ -20,6 +20,23 @@ cd bmi
 ```bash
 python bmi.py
 ```
+Kali Linux
+```bash
+apt install git
+```
+```bash
+apt install python
+```
+```bash
+git clone https://github.com/zukazuborajBangladesh/bmi
+```
+```bash
+cd bmi
+```
+```bash
+python bmi.py
+```
+```
 ## Single Command
 copy paste in your terminal
 ```bash
