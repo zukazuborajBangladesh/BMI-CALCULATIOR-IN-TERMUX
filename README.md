@@ -4,7 +4,7 @@
 </div>
 
 ## Install Process
-##Termux
+## Termux
 ```bash
 cd /data/data/com.termux/files/home
 ```
