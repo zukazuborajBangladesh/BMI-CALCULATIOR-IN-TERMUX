@@ -47,7 +47,8 @@ copy paste in your terminal
 ```bash
 git clone https://github.com/zuka-byte/bmi && cd bmi && python bmi.py
 ```
-## After Install Quick Run Command ## Termux
+## After Install Quick Run Command 
+## Termux
 ```bash
 cd /data/data/com.termux/files/home && cd bmi && python bmi.py
 ```
