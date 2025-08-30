@@ -23,7 +23,7 @@ cd bmi
 ```bash
 python bmi.py
 ```
-##Kali Linux/Parrot/Debain
+## Kali Linux/Parrot/Debain
 ```bash
 cd /home
 ```
@@ -42,7 +42,7 @@ cd bmi
 ```bash
 python bmi.py
 ```
-##Single Command
+## Single Command
 ```bash
 copy paste in your terminal
 ```
