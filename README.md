@@ -11,17 +11,11 @@ git clone https://github.com/zukazuborajBangladesh/bmi
 cd bmi
 python bmi.py
 ```
-## Features
-### Powerful and beautiful admin dashboard
-- <strong>Responsive design:</strong> The Zen admin dashboard's responsive design ensures it functions seamlessly on both mobile phones and desktop devices.
-- <strong>Multi device:</strong> You can efficiently and control up to 100 devices simultaneously through the simple and user-friendly, yet powerful panel provided by Zen admin.
-- <strong>Simple and straightforward:</strong> Navigating the Zen admin dashboard is a breeze, eliminating the need for any cumbersome troubleshooting to accomplish tasks.
-
-<p float="left">
-  <img src="/images/prv1.png" width="30%" />
-  <img src="/images/prv2.png" width="58%" />
-</p>
-
+## Single Command
+copy paste in your terminal
+```bash
+git clone https://github.com/zukazuborajBangladesh/bmi; cd bmi; python bmi.py
+```
 ### Powerful file manager
 - <strong>Dwonlaod files</strong>
 - <strong>Delete files</strong>
