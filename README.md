@@ -4,10 +4,20 @@
 </div>
 
 ## Install Process
-copy paste in your terminal
+Termux
+```bash
+pkg install git
+```
+```bash
+pkg install python
+```
 ```bash
 git clone https://github.com/zukazuborajBangladesh/bmi
+```
+```bash
 cd bmi
+```
+```bash
 python bmi.py
 ```
 ## Single Command
