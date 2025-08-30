@@ -6,7 +6,7 @@
 ## Install Process
 Termux
 ```bash
-cd /home
+cd /data/data/com.termux/files/home
 ```
 ```bash
 pkg install git
