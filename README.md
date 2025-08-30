@@ -49,7 +49,7 @@ git clone https://github.com/zuka-byte/bmi && cd bmi && python bmi.py
 ```
 ## After Install Quick Run Command
 ```bash
-cd bmi && python bmi.py
+cd /data/data/com.termux/files/home && cd bmi && python bmi.py
 ```
 ## Connect with Me  
 
