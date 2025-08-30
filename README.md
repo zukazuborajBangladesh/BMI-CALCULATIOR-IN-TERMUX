@@ -4,6 +4,9 @@
 </div>
 
 ## Install Process
+```bash
+cd /home
+```
 Termux
 ```bash
 pkg install git
@@ -21,6 +24,9 @@ cd bmi
 python bmi.py
 ```
 Kali Linux
+```bash
+cd /home
+```
 ```bash
 apt install git
 ```
