@@ -16,6 +16,11 @@ copy paste in your terminal
 ```bash
 git clone https://github.com/zukazuborajBangladesh/bmi && cd bmi && python bmi.py
 ```
+## After Install Quick Run Command
+copy paste in your terminal
+```bash
+cd bmi && python bmi.py
+```
 ## Connect with Me  
 
 - 🌐 [Facebook](https://facebook.com/zukazuboraj)        
