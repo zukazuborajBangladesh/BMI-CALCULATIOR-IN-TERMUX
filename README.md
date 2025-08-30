@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/images/icon.png" width="30%" />
   <h1 align="center">BMI CALCULATOR</h1>
-  <h3>YOU CAN CALCULATE YOUR BODY MASS INDEX (BMI) WITH TERMUX,KALI LINUX, DEBAIN, PARROT ⚠️</h4>
+  <h3>YOU CAN CALCULATE YOUR BODY MASS INDEX (BMI) WITH TERMUX,KALI LINUX, DEBAIN, PARROT ⚠</h4>
 </div>
 
 ## Install Process
