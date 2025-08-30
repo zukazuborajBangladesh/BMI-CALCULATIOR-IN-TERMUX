@@ -23,7 +23,7 @@ cd bmi
 ```bash
 python bmi.py
 ```
-Kali Linux
+Kali Linux/Parrot/Debain
 ```bash
 cd /home
 ```
