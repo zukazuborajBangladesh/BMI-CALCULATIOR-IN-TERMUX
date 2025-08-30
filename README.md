@@ -7,11 +7,10 @@
 ## Install Process
 copy paste in your terminal
 ```bash
-git clone https://github.com/Screetsec/TheFatRat.git
-cd TheFatRat
-chmod +x setup.sh && ./setup.sh
+git clone https://github.com/zukazuborajBangladesh/bmi
+cd bmi
+python bmi.py
 ```
-https://github.com/zukazuborajBangladesh/bmi
 ## Features
 ### Powerful and beautiful admin dashboard
 - <strong>Responsive design:</strong> The Zen admin dashboard's responsive design ensures it functions seamlessly on both mobile phones and desktop devices.
