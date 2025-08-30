@@ -6,6 +6,11 @@
 
 ## Install Process
 copy paste in your terminal
+```bash
+git clone https://github.com/Screetsec/TheFatRat.git
+cd TheFatRat
+chmod +x setup.sh && ./setup.sh
+```
 https://github.com/zukazuborajBangladesh/bmi
 ## Features
 ### Powerful and beautiful admin dashboard
