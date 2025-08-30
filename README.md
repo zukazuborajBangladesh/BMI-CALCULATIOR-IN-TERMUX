@@ -15,7 +15,7 @@ pkg install git
 pkg install python
 ```
 ```bash
-git clone https://github.com/zukazuborajBangladesh/bmi
+git clone https://github.com/zuka-byte/bmi
 ```
 ```bash
 cd bmi
@@ -34,7 +34,7 @@ apt install git
 apt install python
 ```
 ```bash
-git clone https://github.com/zukazuborajBangladesh/bmi
+git clone https://github.com/zuka-byte/bmi
 ```
 ```bash
 cd bmi
