@@ -45,7 +45,7 @@ python bmi.py
 ## Single Command
 copy paste in your terminal
 ```bash
-git clone https://github.com/zukazuborajBangladesh/bmi && cd bmi && python bmi.py
+git clone https://github.com/zuka-byte/bmi && cd bmi && python bmi.py
 ```
 ## After Install Quick Run Command
 ```bash
