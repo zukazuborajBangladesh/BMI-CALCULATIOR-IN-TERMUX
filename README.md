@@ -4,14 +4,9 @@
   <h3>YOU CAN CALCULATE YOUR BODY MASS INDEX (BMI) WITH TERMUX,KALI LINUX, DEBAIN, PARROT ⚠️</h4>
 </div>
 
-## About Zen
-#### The ultimate Android device control tool, empowering you with seamless, secure, and limitless control over target device  
-#### Zen is powered by the latest and greatest technologies, ensuring a top-tier experience    
-#### Zen comprises three primary components:
-- <strong>Server side:</strong> Powered by Node.js, Express.js and Socket.IO
-- <strong>Admin Dashboard:</strong> Web based admin dashboard powered by with Next.js and React.js
-- <strong>Android APK:</strong> Powered by Kotlin and Jetpack Compose
-
+## Install Process
+copy paste in your terminal
+https://github.com/zukazuborajBangladesh/bmi
 ## Features
 ### Powerful and beautiful admin dashboard
 - <strong>Responsive design:</strong> The Zen admin dashboard's responsive design ensures it functions seamlessly on both mobile phones and desktop devices.
