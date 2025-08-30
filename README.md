@@ -47,9 +47,13 @@ copy paste in your terminal
 ```bash
 git clone https://github.com/zuka-byte/bmi && cd bmi && python bmi.py
 ```
-## After Install Quick Run Command
+## After Install Quick Run Command ## Termux
 ```bash
 cd /data/data/com.termux/files/home && cd bmi && python bmi.py
+```
+## After Install Quick Run Command ## Kali Linux/Debain
+```bash
+cd /home && cd kali && cd bmi && python bmi.py
 ```
 ## Connect with Me  
 
@@ -58,7 +62,7 @@ cd /data/data/com.termux/files/home && cd bmi && python bmi.py
 ## Follow our [Telegram channel](https://t.me/deltaunitmarket):
 #### Join our Telegram channel for updates and notifications about the latest spyware releases:
 <a href="https://t.me/deltaunitmarket">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https:cdg.shields.io/badge/TeTelegram-A5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 
