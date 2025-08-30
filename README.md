@@ -36,8 +36,8 @@ cd bmi
 ```bash
 python bmi.py
 ```
+Single Command
 ```bash
-## Single Command
 copy paste in your terminal
 ```
 ```bash
