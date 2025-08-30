@@ -1,8 +1,7 @@
 <div align="center">
   <img src="/images/icon.png" width="30%" />
-  <h1 align="center">Zen RAT</h1>
-  <h3>Advanced and powerful Android device controlling tool with a wide range of features and capabilities</h3>
-  <h4>This software is exclusively designed for educational purposes ⚠️</h4>
+  <h1 align="center">BMI CALCULATOR</h1>
+  <h3>YOU CAN CALCULATE YOUR BODY MASS INDEX (BMI) WITH TERMUX,KALI LINUX, DEBAIN, PARROT ⚠️</h4>
 </div>
 
 ## About Zen
