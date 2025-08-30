@@ -4,10 +4,10 @@
 </div>
 
 ## Install Process
+Termux
 ```bash
 cd /home
 ```
-Termux
 ```bash
 pkg install git
 ```
