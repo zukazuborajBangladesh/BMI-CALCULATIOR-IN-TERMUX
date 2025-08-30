@@ -32,7 +32,7 @@ print(GREEN + """
 # BMI Calculator start
 weight = float(input(GREEN + "Weight (kg): "))
 feet = int(input(GREEN + "Height (feet): "))
-inch = int(input(GREEN + "Then inches: "))
+inch = int(input(GREEN + "Then (inches): "))
 
 height = (feet * 0.3048) + (inch * 0.0254)
 bmi = weight / (height ** 2)
@@ -48,3 +48,4 @@ elif 25 <= bmi <= 29.9:
     print(GREEN + "Overweight")
 else:
     print(GREEN + "Obese")
+
