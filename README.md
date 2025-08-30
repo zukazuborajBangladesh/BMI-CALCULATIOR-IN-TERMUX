@@ -36,9 +36,10 @@ cd bmi
 ```bash
 python bmi.py
 ```
-```
+```bash
 ## Single Command
 copy paste in your terminal
+```
 ```bash
 git clone https://github.com/zukazuborajBangladesh/bmi && cd bmi && python bmi.py
 ```
