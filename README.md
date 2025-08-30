@@ -53,7 +53,7 @@ git clone https://github.com/zuka-byte/bmi && cd bmi && python bmi.py
 cd /data/data/com.termux/files/home && cd bmi && python bmi.py
 ```
 ## After Install Quick Run Command 
-## Kali Linux/Debain
+## Kali Linux
 ```bash
 cd /home && cd kali && cd bmi && python bmi.py
 ```
