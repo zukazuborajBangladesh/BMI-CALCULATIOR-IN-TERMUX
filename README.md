@@ -62,7 +62,7 @@ cd /home && cd kali && cd bmi && python bmi.py
 - 🌐 [Facebook](https://facebook.com/zukazuboraj)        
 
 ## Follow our [Telegram channel](https://t.me/deltaunitmarket):
-#### Join our Telegram channel for updates and notifications about the latest spyware releases:
+#### Join our Telegram channel for updates and notifications about the latest Trick releases:
 <a href="https://t.me/deltaunitmarket">
   <img src="https:cdg.shields.io/badge/TeTelegram-A5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
